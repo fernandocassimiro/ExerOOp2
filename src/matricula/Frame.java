@@ -79,6 +79,7 @@ public class Frame extends javax.swing.JFrame {
             }
         });
 
+        jTextField3.setForeground(new java.awt.Color(0, 0, 255));
         jTextField3.setText("Linguagens e Técnicas de Programação");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
